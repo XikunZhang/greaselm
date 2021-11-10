@@ -1,6 +1,6 @@
 # GreaseLM: Graph REASoning Enhanced Language Models
 
-This repo provides the source code & data of our paper "GreaseLM: Graph REASoning Enhanced Language Models".
+**This repo has been migrated to https://github.com/snap-stanford/GreaseLM. Please check there if you are looking for the source code, data and pretrained models of our paper "GreaseLM: Graph REASoning Enhanced Language Models".**
 
 <p align="center">
   <img src="./figs/greaselm.png" width="600" title="GreaseLM model architecture" alt="">
